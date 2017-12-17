@@ -30,6 +30,6 @@ function iLoveTheBeatles(num) {
   do{
     blankArray.push("I love the Beatles")
     num++
-  } while(Number < 15)
+  } while(num < 15)
   return blankArray
 }
