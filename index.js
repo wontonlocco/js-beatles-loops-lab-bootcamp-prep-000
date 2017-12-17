@@ -28,6 +28,8 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(Number) {
   var blankArray = []
   do{
-    
-  }l while()
+    blankArray.push("I love the Beatles")
+    Number++
+  } while(Number < 15)
+  return blankArray
 }
