@@ -29,7 +29,7 @@ function iLoveTheBeatles(num) {
   var blankArray = []
   do{
     blankArray.push("I love the Beatles")
-    Number++
+    num++
   } while(Number < 15)
   return blankArray
 }
