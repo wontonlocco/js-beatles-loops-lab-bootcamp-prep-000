@@ -24,3 +24,10 @@ function johnLennonFacts(facts) {
   }
   return arrayOfStrings
 }
+
+function iLoveTheBeatles(Number) {
+  var blankArray = []
+  do{
+    
+  }
+}
