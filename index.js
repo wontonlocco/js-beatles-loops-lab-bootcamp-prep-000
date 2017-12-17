@@ -8,7 +8,7 @@ function theBeatlesPlay(arrayOfMusicians, arrayOfInstruments) {
   return emptyArray
 }
 
-function johnLennonFacts(arrayOfFacts) {
+function johnLennonFacts() {
   var facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
